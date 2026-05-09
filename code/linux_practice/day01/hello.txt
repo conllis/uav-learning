@@ -1,0 +1,2 @@
+hello linux
+today I start learning Linux commands
