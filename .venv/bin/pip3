@@ -1,4 +1,4 @@
-#!/home/zzz/uav-learning/.venv/bin/python3
+#!/home/zzz/uav-learning/.venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
