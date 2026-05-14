@@ -22,3 +22,6 @@ __pycache__/
 
 # VS Code local settings
 .vscode/
+# PX4 flight logs
+*.ulg
+logs/**/*.ulg
