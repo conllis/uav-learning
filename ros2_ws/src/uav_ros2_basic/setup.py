@@ -24,8 +24,10 @@ setup(
     },
     entry_points={
         'console_scripts': [
-        	'altitude_publisher = uav_ros2_basic.altitude_publisher:main',
-        	'altitude_subscriber = uav_ros2_basic.altitude_subscriber:main',
+        'altitude_publisher = uav_ros2_basic.altitude_publisher:main',
+        'altitude_subscriber = uav_ros2_basic.altitude_subscriber:main',
+        'attitude_publisher = uav_ros2_basic.attitude_publisher:main',
+        'attitude_subscriber = uav_ros2_basic.attitude_subscriber:main',
         ],
     },
 )
