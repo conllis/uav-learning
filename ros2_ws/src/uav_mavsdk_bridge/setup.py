@@ -26,6 +26,7 @@ setup(
         'console_scripts': [
         	'px4_telemetry_bridge = uav_mavsdk_bridge.px4_telemetry_bridge:main',
         	'px4_telemetry_logger = uav_mavsdk_bridge.px4_telemetry_logger:main',
+        	'px4_action_command_node = uav_mavsdk_bridge.px4_action_command_node:main',
         ],
     },
 )
