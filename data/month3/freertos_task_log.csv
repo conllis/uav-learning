@@ -1,0 +1,137 @@
+time_sec,task_name,message,imu_count,attitude_count,control_count,telemetry_count,safety_count,heartbeat_count,safety_ok
+0.0011,telemetry_task,send telemetry,1,1,1,1,0,0,True
+0.0011,heartbeat_task,toggle led,1,1,1,1,1,1,True
+0.1013,telemetry_task,send telemetry,21,21,11,2,2,1,True
+0.2019,telemetry_task,send telemetry,41,41,21,3,4,1,True
+0.3014,telemetry_task,send telemetry,61,61,31,4,6,1,True
+0.4028,telemetry_task,send telemetry,81,81,41,5,8,1,True
+0.4917,control_task,update motor output,99,99,50,5,10,1,True
+0.4960,imu_task,read imu data,100,99,50,5,10,1,True
+0.4960,attitude_task,estimate attitude,100,100,50,5,10,1,True
+0.5015,telemetry_task,send telemetry,101,101,51,6,10,1,True
+0.6016,telemetry_task,send telemetry,121,121,61,7,12,1,True
+0.7016,telemetry_task,send telemetry,141,141,71,8,14,1,True
+0.8018,telemetry_task,send telemetry,161,161,81,9,16,1,True
+0.9014,telemetry_task,send telemetry,181,181,91,10,18,1,True
+0.9917,control_task,update motor output,199,199,100,10,20,1,True
+0.9960,imu_task,read imu data,200,199,100,10,20,1,True
+0.9961,attitude_task,estimate attitude,200,200,100,10,20,1,True
+1.0014,telemetry_task,send telemetry,201,201,101,11,20,1,True
+1.0015,heartbeat_task,toggle led,201,201,101,11,21,2,True
+1.1020,telemetry_task,send telemetry,221,221,111,12,22,2,True
+1.2021,telemetry_task,send telemetry,241,241,121,13,24,2,True
+1.3011,telemetry_task,send telemetry,261,261,131,14,26,2,True
+1.4021,telemetry_task,send telemetry,281,281,141,15,28,2,True
+1.4917,control_task,update motor output,299,299,150,15,30,2,True
+1.4959,imu_task,read imu data,300,299,150,15,30,2,True
+1.4960,attitude_task,estimate attitude,300,300,150,15,30,2,True
+1.5015,telemetry_task,send telemetry,301,301,151,16,30,2,True
+1.6012,telemetry_task,send telemetry,321,321,161,17,32,2,True
+1.7020,telemetry_task,send telemetry,341,341,171,18,34,2,True
+1.8016,telemetry_task,send telemetry,361,361,181,19,36,2,True
+1.9014,telemetry_task,send telemetry,381,381,191,20,38,2,True
+1.9916,control_task,update motor output,399,399,200,20,40,2,True
+1.9959,imu_task,read imu data,400,399,200,20,40,2,True
+1.9960,attitude_task,estimate attitude,400,400,200,20,40,2,True
+2.0013,telemetry_task,send telemetry,401,401,201,21,40,2,True
+2.0014,heartbeat_task,toggle led,401,401,201,21,41,3,True
+2.1015,telemetry_task,send telemetry,421,421,211,22,42,3,True
+2.2016,telemetry_task,send telemetry,441,441,221,23,44,3,True
+2.3013,telemetry_task,send telemetry,461,461,231,24,46,3,True
+2.4021,telemetry_task,send telemetry,481,481,241,25,48,3,True
+2.4917,control_task,update motor output,499,499,250,25,50,3,True
+2.4959,imu_task,read imu data,500,499,250,25,50,3,True
+2.4971,attitude_task,estimate attitude,500,500,250,25,50,3,True
+2.5015,telemetry_task,send telemetry,501,501,251,26,50,3,True
+2.6014,telemetry_task,send telemetry,521,521,261,27,52,3,True
+2.7020,telemetry_task,send telemetry,541,541,271,28,54,3,True
+2.8020,telemetry_task,send telemetry,561,561,281,29,56,3,True
+2.9015,telemetry_task,send telemetry,581,581,291,30,58,3,True
+2.9913,control_task,update motor output,599,599,300,30,60,3,True
+2.9957,imu_task,read imu data,600,599,300,30,60,3,True
+2.9969,attitude_task,estimate attitude,600,600,300,30,60,3,True
+3.0016,telemetry_task,send telemetry,601,601,301,31,60,3,True
+3.0018,heartbeat_task,toggle led,601,601,301,31,61,4,True
+3.1020,telemetry_task,send telemetry,621,621,311,32,62,4,True
+3.2013,telemetry_task,send telemetry,641,641,321,33,64,4,True
+3.3018,telemetry_task,send telemetry,661,661,331,34,66,4,True
+3.4021,telemetry_task,send telemetry,681,681,341,35,68,4,True
+3.4910,control_task,update motor output,699,699,350,35,70,4,True
+3.4963,imu_task,read imu data,700,699,350,35,70,4,True
+3.4963,attitude_task,estimate attitude,700,700,350,35,70,4,True
+3.5019,telemetry_task,send telemetry,701,701,351,36,70,4,True
+3.6022,telemetry_task,send telemetry,721,721,361,37,72,4,True
+3.7019,telemetry_task,send telemetry,741,741,371,38,74,4,True
+3.8019,telemetry_task,send telemetry,761,761,381,39,76,4,True
+3.9015,telemetry_task,send telemetry,781,781,391,40,78,4,True
+3.9911,control_task,update motor output,799,799,400,40,80,4,True
+3.9953,imu_task,read imu data,800,799,400,40,80,4,True
+3.9965,attitude_task,estimate attitude,800,800,400,40,80,4,True
+4.0020,telemetry_task,send telemetry,801,801,401,41,80,4,True
+4.0021,heartbeat_task,toggle led,801,801,401,41,81,5,True
+4.1022,telemetry_task,send telemetry,821,821,411,42,82,5,True
+4.2020,telemetry_task,send telemetry,841,841,421,43,84,5,True
+4.3012,telemetry_task,send telemetry,861,861,431,44,86,5,True
+4.4014,telemetry_task,send telemetry,881,881,441,45,88,5,True
+4.4914,control_task,update motor output,899,899,450,45,90,5,True
+4.4956,imu_task,read imu data,900,899,450,45,90,5,True
+4.4968,attitude_task,estimate attitude,900,900,450,45,90,5,True
+4.5013,telemetry_task,send telemetry,901,901,451,46,90,5,True
+4.6014,telemetry_task,send telemetry,921,921,461,47,92,5,True
+4.7022,telemetry_task,send telemetry,941,941,471,48,94,5,True
+4.8014,telemetry_task,send telemetry,961,961,481,49,96,5,True
+4.9019,telemetry_task,send telemetry,981,981,491,50,98,5,True
+4.9913,control_task,update motor output,999,999,500,50,100,5,True
+4.9955,imu_task,read imu data,1000,999,500,50,100,5,True
+4.9967,attitude_task,estimate attitude,1000,1000,500,50,100,5,True
+5.0013,telemetry_task,send telemetry,1001,1001,501,51,100,5,True
+5.0014,heartbeat_task,toggle led,1001,1001,501,51,101,6,True
+5.1014,telemetry_task,send telemetry,1021,1021,511,52,102,6,True
+5.2014,telemetry_task,send telemetry,1041,1041,521,53,104,6,True
+5.3016,telemetry_task,send telemetry,1061,1061,531,54,106,6,True
+5.4019,telemetry_task,send telemetry,1081,1081,541,55,108,6,True
+5.4920,control_task,update motor output,1099,1099,550,55,110,6,True
+5.4962,imu_task,read imu data,1100,1099,550,55,110,6,True
+5.4962,attitude_task,estimate attitude,1100,1100,550,55,110,6,True
+5.5018,telemetry_task,send telemetry,1101,1101,551,56,110,6,True
+5.6022,telemetry_task,send telemetry,1121,1121,561,57,112,6,True
+5.7015,telemetry_task,send telemetry,1141,1141,571,58,114,6,True
+5.8015,telemetry_task,send telemetry,1161,1161,581,59,116,6,True
+5.9014,telemetry_task,send telemetry,1181,1181,591,60,118,6,True
+5.9910,control_task,update motor output,1199,1199,600,60,120,6,True
+5.9963,imu_task,read imu data,1200,1199,600,60,120,6,True
+5.9963,attitude_task,estimate attitude,1200,1200,600,60,120,6,True
+6.0019,telemetry_task,send telemetry,1201,1201,601,61,120,6,True
+6.0020,heartbeat_task,toggle led,1201,1201,601,61,121,7,True
+6.1017,telemetry_task,send telemetry,1221,1221,611,62,122,7,True
+6.2019,telemetry_task,send telemetry,1241,1241,621,63,124,7,True
+6.3018,telemetry_task,send telemetry,1261,1261,631,64,126,7,True
+6.4013,telemetry_task,send telemetry,1281,1281,641,65,128,7,True
+6.4919,control_task,update motor output,1299,1299,650,65,130,7,True
+6.4961,imu_task,read imu data,1300,1299,650,65,130,7,True
+6.4961,attitude_task,estimate attitude,1300,1300,650,65,130,7,True
+6.5014,telemetry_task,send telemetry,1301,1301,651,66,130,7,True
+6.6022,telemetry_task,send telemetry,1321,1321,661,67,132,7,True
+6.7019,telemetry_task,send telemetry,1341,1341,671,68,134,7,True
+6.8012,telemetry_task,send telemetry,1361,1361,681,69,136,7,True
+6.9013,telemetry_task,send telemetry,1381,1381,691,70,138,7,True
+6.9919,control_task,update motor output,1399,1399,700,70,140,7,True
+6.9961,imu_task,read imu data,1400,1399,700,70,140,7,True
+6.9961,attitude_task,estimate attitude,1400,1400,700,70,140,7,True
+7.0015,telemetry_task,send telemetry,1401,1401,701,71,140,7,True
+7.0016,heartbeat_task,toggle led,1401,1401,701,71,141,8,True
+7.1016,telemetry_task,send telemetry,1421,1421,711,72,142,8,True
+7.2018,telemetry_task,send telemetry,1441,1441,721,73,144,8,True
+7.3017,telemetry_task,send telemetry,1461,1461,731,74,146,8,True
+7.4020,telemetry_task,send telemetry,1481,1481,741,75,148,8,True
+7.4917,control_task,update motor output,1499,1499,750,75,150,8,True
+7.4959,imu_task,read imu data,1500,1499,750,75,150,8,True
+7.4970,attitude_task,estimate attitude,1500,1500,750,75,150,8,True
+7.5013,telemetry_task,send telemetry,1501,1501,751,76,150,8,True
+7.6023,telemetry_task,send telemetry,1521,1521,761,77,152,8,True
+7.7020,telemetry_task,send telemetry,1541,1541,771,78,154,8,True
+7.8020,telemetry_task,send telemetry,1561,1561,781,79,156,8,True
+7.9017,telemetry_task,send telemetry,1581,1581,791,80,158,8,True
+7.9911,control_task,update motor output,1599,1599,800,80,160,8,True
+7.9953,imu_task,read imu data,1600,1599,800,80,160,8,True
+7.9964,attitude_task,estimate attitude,1600,1600,800,80,160,8,True
